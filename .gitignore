@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+grafico_faturamento.png
+
+# Planilhas e dados privados
+*.xls
+*.xlsx
+!exemplo_faturamento.xlsx
+*.csv
